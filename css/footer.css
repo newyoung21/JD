@@ -1,0 +1,73 @@
+.footer-top{
+	margin-top:20px;
+	background-color: #F5F5F5;
+}
+.footer-top .clear-b{
+	clear: both;
+}
+.footer-logo{
+	background: url(../image/product_home_1.0.0.png) 0 -130px;
+}
+.footer-logo1{
+	background: url(../image/product_home_1.0.0.png) 0 -194px;
+}
+.footer-logo2{
+	background: url(../image/product_home_1.0.0.png) 0 -258px;
+}
+.footer-logo3{
+	background: url(../image/product_home_1.0.0.png) 0 -322px;
+}
+.ftr-c{
+	width: 220px;
+	height: 54px;
+	float: left;
+	margin: 20px 60px 20px 20px;
+}
+.footer-main{
+	margin-top:15px;
+}
+.footer-main .foo-s{
+	float: left;
+	margin-right: 130px;
+}
+.footer-main h2{
+	margin: 10px 0;
+}
+.foo-last .foo-td{
+	padding: 0 0 0 115px;
+	position: relative;
+}
+.footer-main h2{
+	*font-size: 16px;
+}
+.foo-last{
+	float: left;
+	background: url(../image/0B_1.png) 90px -130px;
+	width: 300px;
+	height: 168px;
+}
+.foo-s.foo-mar{
+	margin: 0;
+}
+.foo-location{
+	position: absolute;
+	right: 20px;
+}
+.foo-about{
+	float: left;
+	margin-bottom: 10px;
+}
+.footer-bottom .foo-pad{
+	padding-left: 200px;
+	padding-right: 180px;
+}
+.foo-about a{
+	margin: 10px;
+}
+.foo-mes{
+	text-align: center;
+}
+.foo-m-p{
+	float: left;
+	margin: 15px;
+}

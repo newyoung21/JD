@@ -1,0 +1,83 @@
+#j-toolbar{
+	position: fixed;
+	/*width: 0;*/
+	right: 0;
+	top: 0;
+	height: 100%;
+	background-color: #7a6e6e;
+}
+.bk{
+	height: 100%;
+	background-color: #7a6e6e;
+	width: 4px;
+	position: absolute;
+	right: 0;
+}
+.toolbar-main{
+	position: absolute;
+	top: 50%;
+	right: 0;
+	margin-top: -61px;
+}
+.toolbar-footer{
+	position: absolute;
+	bottom: 0;
+	right: 0;
+}
+
+.tab-back{
+	background-color: #7a6e6e;
+	height: 35px;
+	margin-top: 1px;
+	position: relative;
+}
+.nub1 .tab-ico{
+	background-position: -50px 0;
+}
+
+.nub2 .tab-ico{
+	background-position: -50px -50px;
+}
+
+.nub3 .tab-ico{
+	background-position: -50px -100px;
+}
+
+.nub4 .tab-ico{
+	background-position: -190px -150px;
+}
+
+.nub5 .tab-ico{
+	background-position: -50px -150px;
+}
+.go-top .tab-ico{
+	background-position: -50px -250px;
+}
+.feedback .tab-ico{
+	background-position: -50px -300px;
+}
+.tab-ico{
+	width: 34px;
+	height: 35px;
+	background: url(../image/toolbar.png);
+	display: inline-block;
+}
+.tab-text{
+	display: inline-block;
+	width: 50px;
+	height: 35px;
+	line-height: 35px;
+	vertical-align: top;
+	color: #fff;
+	position: absolute;
+	top: 0;
+	right: 34px;
+	text-align: center;
+	font-family: "微软雅黑";
+	border-radius: 3px 0 0 3px;
+	display: none;
+	background-color: #c81623;
+}
+.clr{
+	background-color: #c81623;
+}
